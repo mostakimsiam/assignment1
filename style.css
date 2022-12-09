@@ -1,0 +1,159 @@
+h1 {
+    font-size: 55px;
+}
+
+h2 {
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.flexible {
+    display: flex;
+}
+
+.first-page {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 150px;
+}
+
+#stay-focused {
+    border-left: 5px solid;
+    border-color: crimson;
+    padding-left: 10px;
+}
+
+.orange {
+    color: orange;
+}
+
+p {
+    font-size: 20px;
+}
+
+.second-page {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+#my-mission {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.half-width {
+    width: 67%;
+    padding-left: 17%;
+}
+
+.half-width img {
+    width: 85%;
+    margin-top: -65px;
+}
+
+.button-link {
+    text-decoration: none;
+    background-color: orangered;
+    padding: 12px 30px;
+    color: white;
+    border-radius: 5px;
+}
+
+.mission {
+    background-color: mintcream;
+    padding-left: 30px;
+    padding-top: 80px;
+    padding-right: 10px;
+    margin-right: 20px;
+    border-radius: 20px;
+    text-align: left;
+}
+
+.mission img {
+    width: 50%;
+    margin-left: -25px;
+    padding-top: 20px;
+}
+
+.vission {
+    background-color: rgb(242, 220, 224);
+    padding-left: 30px;
+    padding-top: 80px;
+    padding-right: 10px;
+    margin-right: 20px;
+    border-radius: 20px;
+    text-align: left;
+
+}
+
+.vission img {
+    width: 50%;
+    margin-left: -25px;
+    padding-top: 20px;
+}
+
+.goals {
+    background-color: cornsilk;
+    padding-left: 30px;
+    padding-top: 80px;
+    padding-right: 10px;
+    margin-right: 20px;
+    border-radius: 20px;
+    text-align: left;
+}
+
+.goals img {
+    width: 50%;
+    margin-left: -25px;
+    padding-top: 20px;
+}
+
+.third-page {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 150px
+}
+
+.fourth-page {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 150px;
+}
+
+.width-left {
+    width: 80%;
+    padding-left: 17%;
+}
+
+.width-left img {
+    width: 70%;
+    margin-top: 30px;
+    margin-right: 70px;
+}
+
+.width-right {
+    width: 75%;
+    padding-left: 17%;
+}
+
+.width-right img {
+    width: 70%;
+    margin-top: 30px;
+    margin-left: 50px;
+
+}
+
+#foot {
+    font-size: small;
+}
+
+footer {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.crimson {
+    color: crimson;
+}
